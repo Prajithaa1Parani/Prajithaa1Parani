@@ -1,67 +1,35 @@
-<h1 align="center">Hi, I'm Prajithaa</h1>
+<div align="center">
+  
+# 🚀 Prajithaa
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Real+World+AI+Systems;Focused+on+Hackathons+%26+Placements" alt="Typing SVG" />
 
 <p align="center">
-  <b>B.Tech Generative AI Student</b><br/>
-  Strong Fundamentals • Consistent Learner • Clean Code
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FF7A18&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=FF7A18" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Total%20Stars&style=for-the-badge&color=FF7A18" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Focus-DSA%20%7C%20Python%20%7C%20Git-2F3A44?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning%20Approach-Structured%20%26%20Consistent-3A6EA5?style=flat-square" />
-</p>
+### 🎯 Gen AI Engineer | ⚡ Hackathon Builder | 🚀 Problem Solver
+
+</div>
 
 ---
 
-## 👩‍💻 Profile Summary
-I am a **B.Tech Generative AI student** focused on building **strong computer science fundamentals** and applying them through consistent, hands-on practice.
+<div align="center">
 
-I believe in learning concepts deeply, writing clean and readable code, and improving through regular iteration rather than shortcuts.
+## 💫 About Me
 
----
+</div>
 
-## 📘 Current Technical Focus
-- **Data Structures (C)** – problem solving, logical thinking, algorithmic foundations  
-- **Python** – core programming concepts, structured coding, OOP basics  
-- **Git & GitHub** – version control, clean commit history, collaboration workflows  
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-This GitHub profile reflects my **learning discipline and consistency**, not just final outputs.
+### 🎯 What I Do
 
----
-
-## 🧠 Learning Philosophy
-- Fundamentals before frameworks  
-- Consistency over intensity  
-- Clarity over complexity  
-- Progress tracked through regular commits  
-
----
-
-## 🛠️ Technical Skills (Growing)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode&theme=light" />
-</p>
-
----
-
-## 📂 Repository Highlights
-- Well-structured practice repositories  
-- Clear README files explaining intent and learning goals  
-- Code written with readability and logical clarity  
-- Incremental improvements reflected in commit history  
-
----
-
-## 🔁 Consistency & Discipline
-I treat GitHub as a **daily learning workspace**.
-
-My focus is on:
-- Small, meaningful commits  
-- Revisiting and strengthening fundamentals  
-- Maintaining clean project structure  
-- Building long-term engineering discipline  
-
----
-
-<p align="center">
-  <em>Focused on building long-term engineering capability through fundamentals and discipline.</em>
-</p>
+```yaml
+role: B.Tech Gen AI Student
+focus: AI Systems + Full Stack Projects
+mission: Become Top 1% Engineer
+approach: Build → Iterate → Win
