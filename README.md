@@ -1,16 +1,16 @@
 <div align="center">
-  
-# 🚀 Prajithaa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Real+World+AI+Systems;Focused+on+Hackathons+%26+Placements;Turning+Ideas+into+Impact" alt="Typing SVG" />
+# 🤖 Prajithaa Parani
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+AI+Agents;Crafting+the+Future+of+Automation" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FF7A18&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=FF7A18" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=FF7A18" />
+  <img src="https://komarev.com/ghpvc/?username=Prajithaa1Parani&label=Profile+Views&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Prajithaa1Parani?label=Followers&style=for-the-badge&color=00FF41" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Prajithaa1Parani?label=Total%20Stars&style=for-the-badge&color=00FF41" alt="Stars" />
 </p>
 
-### 🎯 Gen AI Engineer | ⚡ Hackathon Builder | 🚀 Problem Solver
+### 🧠 AI/ML Engineer | 🤖 AI Agents Builder | ⚙️ Automation Developer | ☁️ Cloud Explorer
 
 </div>
 
@@ -29,7 +29,182 @@
 ### 🎯 What I Do
 
 ```yaml
-role: B.Tech Gen AI Student
-focus: AI Systems + Full Stack Development
-mission: Become Top 1% Engineer
-approach: Build → Iterate → Win
+role: AI/ML Engineer
+focus: AI Agents & Automation
+mission: Solving Real-World Problems
+passion: Intelligent Systems at Scale
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Building
+
+- 🤖 **AI Agents** & Multi-Agent Systems
+- ⚙️ **Automation Pipelines & Frameworks**
+- 🧠 **ML Models** for Real-World Impact
+- ☁️ **Cloud-Native AI Solutions**
+- 🌐 **Scalable Intelligent Applications**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 *"Turning data into decisions and ideas into intelligent systems"*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Skills
+
+</div>
+
+## 🧠 AI & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Building-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-Hands--On-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Building-2F3C7E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Specialist-00FF41?style=for-the-badge&logo=robot&logoColor=black" />
+</p>
+
+---
+
+## 💻 Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Beginner-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Data & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Intermediate-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Advanced-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-24292E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Explorer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Explorer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Explorer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+
+## 🏆 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajithaa1Parani&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Prajithaa1Parani&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajithaa1Parani&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajithaa1Parani&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajithaa1Parani&theme=matrix" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajithaa1Parani&theme=matrix" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajithaa1Parani&theme=matrix&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/prajithaa-parani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:prajithaa@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Prajithaa1Parani">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Facts
+
+```python
+prajithaa = {
+    "pronouns": "She/Her",
+    "code": ["Python", "SQL", "Bash"],
+    "ask_me_about": ["AI Agents", "Automation", "ML", "Cloud"],
+    "technologies": {
+        "ai_ml": ["LangChain", "TensorFlow", "PyTorch", "Scikit-Learn"],
+        "cloud": ["Google Cloud", "AWS", "Azure"],
+        "tools": ["Docker", "FastAPI", "Jupyter", "GitHub"]
+    },
+    "current_focus": "Building production-ready AI agent systems",
+    "fun_fact": "I teach machines to think so I can think about bigger things 🧠"
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**💚 Thanks for stopping by! Let's build intelligent systems together! 🤖**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=00FF41&animation=twinkling" width="100%" />
+
+</div>
