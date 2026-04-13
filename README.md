@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+AI+Agents;Crafting+the+Future+of+Automation" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prajithaa1Parani&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpv/?username=Prajithaa1Parani&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Prajithaa1Parani?label=Followers&style=for-the-badge&color=00F7FF" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Prajithaa1Parani?label=Total%20Stars&style=for-the-badge&color=00F7FF" alt="Stars" />
 </p>
