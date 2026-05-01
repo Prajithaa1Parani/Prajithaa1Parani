@@ -28,7 +28,7 @@
 
 ### 🎯 What I Do
 
-```yami
+```yaml
 role: AI/ML Engineer
 focus: AI Agents & Automation
 mission: Solving Real-World Problems
