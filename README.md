@@ -2,7 +2,7 @@
 
 # 🤖 Prajithaa Parani
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+AI+Agents;Crafting+the+Future+of+Automation" alt="Typing SVG" /
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+AI+Agents;Crafting+the+Future+of+Automation" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prajithaa1Parani&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
