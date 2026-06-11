@@ -40,7 +40,7 @@ passion: Intelligent Systems at Scale
 
 ### 🚀 Building
 
-- 🤖 **AI Agents** & Multi-Agent Systems
+- 🤖 **AI Agents** & Multi-Agent System
 - ⚙️ **Automation Pipelines & Frameworks**
 - 🧠 **ML Models** for Real-World Impact
 - ☁️ **Cloud-Native AI Solutions**
