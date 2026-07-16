@@ -64,7 +64,7 @@ prajithaa@github
 OS: ............... B.Tech · Gen AI
 Host: ............. India
 Kernel: ........... Python 3 / Full-Stack
-Uptime: ........... <!--STAT:UPTIME-->1 year, 5 mon<!--/STAT:UPTIME--> on GitHub
+Uptime: ........... <!--STAT:UPTIME-->1 yr, 5 mon<!--/STAT:UPTIME--> on GitHub
 IDE: .............. VS Code
 
 Languages.Programming: Python, JavaScript, TypeScript
@@ -79,10 +79,10 @@ Hobbies.Software: .... Open source, AI agents,
 GitHub Stats
 -----------------
 Repos: ............ <!--STAT:REPOS-->24<!--/STAT:REPOS-->
-Commits: .......... <!--STAT:COMMITS-->131<!--/STAT:COMMITS-->
+Commits: .......... <!--STAT:COMMITS-->132<!--/STAT:COMMITS-->
 Stars: ............ <!--STAT:STARS-->0<!--/STAT:STARS-->
 Followers: ........ <!--STAT:FOLLOWERS-->1<!--/STAT:FOLLOWERS-->
-Lines of Code: .... <!--STAT:LOC-->42,663<!--/STAT:LOC-->
+Lines of Code: .... <!--STAT:LOC-->60,432<!--/STAT:LOC-->
 
 Contact
 -----------------
