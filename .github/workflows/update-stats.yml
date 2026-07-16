@@ -1,0 +1,108 @@
+name: Update neofetch stats
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats from GitHub API
+        id: stats
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const username = context.repo.owner;
+
+            const { data: user } = await github.rest.users.getByUsername({ username });
+
+            let repos = [];
+            let page = 1;
+            while (true) {
+              const { data } = await github.rest.repos.listForUser({ username, per_page: 100, page });
+              if (data.length === 0) break;
+              repos.push(...data);
+              page++;
+            }
+            const ownRepos = repos.filter(r => !r.fork);
+            const totalStars = ownRepos.reduce((s, r) => s + r.stargazers_count, 0);
+
+            const created = new Date(user.created_at);
+            const now = new Date();
+            let months = (now.getFullYear() - created.getFullYear()) * 12 + (now.getMonth() - created.getMonth());
+            if (now.getDate() < created.getDate()) months -= 1;
+            const years = Math.floor(months / 12);
+            const remMonths = months % 12;
+            const uptime = years > 0 ? `${years} yr${years !== 1 ? 's' : ''}, ${remMonths} mon` : `${remMonths} mon`;
+
+            let totalCommits = 0;
+            for (let y = created.getFullYear(); y <= now.getFullYear(); y++) {
+              const from = `${y}-01-01T00:00:00Z`;
+              const to = `${y}-12-31T23:59:59Z`;
+              const q = `query($login:String!,$from:DateTime!,$to:DateTime!) {
+                user(login:$login) {
+                  contributionsCollection(from:$from, to:$to) {
+                    totalCommitContributions
+                  }
+                }
+              }`;
+              const result = await github.graphql(q, { login: username, from, to });
+              totalCommits += result.user.contributionsCollection.totalCommitContributions;
+            }
+
+            core.setOutput('repos', String(user.public_repos));
+            core.setOutput('followers', String(user.followers));
+            core.setOutput('stars', String(totalStars));
+            core.setOutput('commits', String(totalCommits));
+            core.setOutput('uptime', uptime);
+            core.setOutput('repo_names', ownRepos.map(r => r.name).join(' '));
+
+      - name: Count real lines of code
+        id: loc
+        env:
+          OWNER: ${{ github.repository_owner }}
+          REPO_NAMES: ${{ steps.stats.outputs.repo_names }}
+        run: |
+          set -e
+          total=0
+          mkdir -p /tmp/loc-scan
+          for repo in $REPO_NAMES; do
+            rm -rf /tmp/loc-scan/repo
+            if git clone --depth 1 --quiet "https://github.com/$OWNER/$repo.git" /tmp/loc-scan/repo 2>/dev/null; then
+              count=$(find /tmp/loc-scan/repo -type f \
+                \( -name "*.py" -o -name "*.js" -o -name "*.jsx" -o -name "*.ts" -o -name "*.tsx" \
+                   -o -name "*.html" -o -name "*.css" -o -name "*.scss" -o -name "*.java" -o -name "*.c" \
+                   -o -name "*.cpp" -o -name "*.h" -o -name "*.go" -o -name "*.rb" -o -name "*.php" \
+                   -o -name "*.sql" -o -name "*.json" -o -name "*.md" -o -name "*.yml" -o -name "*.yaml" \) \
+                -not -path "*/node_modules/*" -not -path "*/.git/*" -not -path "*/dist/*" -not -path "*/build/*" \
+                -not -path "*/venv/*" -not -path "*/__pycache__/*" -not -path "*/.next/*" -not -path "*/vendor/*" \
+                -exec cat {} + 2>/dev/null | wc -l)
+              total=$((total + count))
+            fi
+          done
+          echo "loc=$total" >> "$GITHUB_OUTPUT"
+
+      - name: Update README
+        env:
+          REPOS: ${{ steps.stats.outputs.repos }}
+          FOLLOWERS: ${{ steps.stats.outputs.followers }}
+          STARS: ${{ steps.stats.outputs.stars }}
+          COMMITS: ${{ steps.stats.outputs.commits }}
+          UPTIME: ${{ steps.stats.outputs.uptime }}
+          LOC: ${{ steps.loc.outputs.loc }}
+        run: python3 .github/scripts/update_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh live neofetch stats [skip ci]"
+          file_pattern: README.md

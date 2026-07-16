@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- ══════════════ HERO ══════════════ -->
-<img src="assets/hero.svg" width="100%" alt="Prajithaa Parani — AI/ML Engineer" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions+%F0%9F%A7%A0;Shipping+production-ready+AI+agent+systems+%E2%9A%99%EF%B8%8F;Ideas+%E2%86%92+intelligent+systems+%F0%9F%9A%80" alt="Typing intro" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Prajithaa1Parani&label=visitors&color=7C3AED&style=flat-square" alt="Profile views" />
 <a href="https://github.com/Prajithaa1Parani?tab=followers"><img src="https://img.shields.io/github/followers/Prajithaa1Parani?label=followers&style=flat-square&color=00F7FF" alt="Followers" /></a>
@@ -14,21 +9,96 @@
 
 <br/>
 
-## 🧭 About
+<table>
+<tr>
+<td valign="top">
 
-```console
-prajithaa@github:~$ whoami
-AI/ML Engineer — I build agents that work, pipelines that scale,
-and systems that turn data into decisions.
+<pre>
+---::::::::::::::::::::::..:::::::::::::::::
+--::::::::::::::::::.:::::::::::::::::.:::::
+-::::::::::::::...:.:::::::...:.::.:.:::::::
+:::::::::::::.:::::::.....:......:..::::::::
+::::::::::::::::.:::....:::::...:..:..::::::
+::::::::::::::::::.........:....::.:::::::::
+::::::::::::::.:...:.:....:.::::..:::.::::::
+::::::::::::::.::::::::.::.:::::::::::.....:
+::::::::::::::::::::::::::::::::::-:::....  
+::::::::::::::::::::::::.:::::::::::::*+:...
+::::::::::::::::::.:::::::::::::::-#-#%#*-.:
+::::::::::::::::::::::::::::::::::---%%%+-+:
+::::::::::::::::::::::-+++:::::::-----#*-:::
+::::::::::::::::---*#*+*+#*=--:----===++=---
+:::::::::::::::+##+*#**##*#*#=---------#---:
+-:::::::::::::+%%#*#*==++#*###---------%--::
+--:::::::::::=#%%#*+-:--+*#%%%#---------=-::
+:::::::::::::#%#*+==------+#%%%=--------#-::
+::::::::::::-%%+=--------===*%%=-----:::#:::
+::::::::::::-*=+****+==*##++=%*=----::::#:::
+-:::::::::::=+::+****-+#+%*+-#++=---::::=-::
+-::::::::::::--::--=:.--::::-+*==---:::::#::
+-::::::::::::-+=+++==--===--++===---:::::=::
+--:::::::::::--+++*++++##+++++===---::::::#:
+=--:-:::::------++=+++++++======----::::::#:
+*-----*#######%%%*+====++++%--=-=-----::::#:
+*----########%%%+*++++++++=%%#*-------::::*:
+%%+*########%%%#==++++++==%%%%###=-::::::::-
+%%###%####%%%%%%====++==%%%%%%%%####*.:::::#
+##%%#####%%%%%%%%%===+%%%%%%%%########*  --*
+##%%%#%%%#%%%%%%%%%%%%%%%%%%%########%#*..  
+%%%%%%###%%%%%%%%%%%%%%%%%%%#######%####*.  
+%%%%####%##%%%%%%%%%%%%%%%%%####%#%######*..
+%%%###%%#%%%%%%%%%%%%%%%%%%%%%%%%%%########.
+#%%%%*%%%%%%###%%%%%%%%%%%%%%%%%%%#%#######:
+%.:%%%#%*+%-%%%%%%%%%%%%%%%%%%%%%%%%%%######
+::%%%%%%%%*#=#%%%%%%%%%%%%%%%%%%%%%%%##%####
+=%%%%%%%%%%%%%+#-#%%%%%%%%%%%%%%%%%%%%####%#
+%@%@@%%%%%%%%%%%%%=#+**%%%%%%%%%%%%%%%%%%###
+</pre>
 
-prajithaa@github:~$ cat focus.txt
-▸ Multi-agent systems & AI automation frameworks
-▸ Production ML — from notebook to deployed service
-▸ Cloud-native AI on GCP · AWS · Azure
+</td>
+<td valign="top">
 
-prajithaa@github:~$ echo $STATUS
-Currently shipping: production-ready AI agent systems 🚀
-```
+<pre>
+prajithaa@github
+-----------------
+OS: ............... B.Tech · Gen AI
+Host: ............. India
+Kernel: ........... Python 3 / Full-Stack
+Uptime: ........... <!--STAT:UPTIME-->1 year, 5 mon<!--/STAT:UPTIME--> on GitHub
+IDE: .............. VS Code
+
+Languages.Programming: Python, JavaScript, TypeScript
+Languages.Computer: .. FastAPI, React, Docker,
+                       PostgreSQL/MySQL, Git, Linux,
+                       GCP · AWS · Azure
+Languages.Real: ...... English
+
+Hobbies.Software: .... Open source, AI agents,
+                        DSA practice
+
+GitHub Stats
+-----------------
+Repos: ............ <!--STAT:REPOS-->24<!--/STAT:REPOS-->
+Commits: .......... <!--STAT:COMMITS-->131<!--/STAT:COMMITS-->
+Stars: ............ <!--STAT:STARS-->0<!--/STAT:STARS-->
+Followers: ........ <!--STAT:FOLLOWERS-->1<!--/STAT:FOLLOWERS-->
+Lines of Code: .... <!--STAT:LOC-->42,663<!--/STAT:LOC-->
+
+Contact
+-----------------
+Email: ............ prajithaa.sasikala@gmail.com
+LinkedIn: ......... /in/prajithaa-parani
+</pre>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>⏱ stats above refresh automatically — <a href="./.github/workflows/update-stats.yml">see workflow</a></sub>
+
+</div>
 
 <br/>
 
