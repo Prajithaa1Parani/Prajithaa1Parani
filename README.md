@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🧭 About
+## 🧭 about me 
 
 ```console
 prajithaa@github:~$ whoami
