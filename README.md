@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 <!-- ══════════════ HERO ══════════════ -->
 <img src="assets/hero.svg" width="100%" alt="Prajithaa Parani — AI/ML Engineer" />
